@@ -2,8 +2,7 @@
 
 **Pawi** is a minimalist, ad-free productivity tool designed to help students and developers reach a flow state. Built with a "Zero-Friction" philosophy: **No ads, no accounts, and no tracking.**
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png) ](YOUR_PLAY_STORE_LINK_HERE)
-*(Note: Replace the link above once your app is live!)*
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png) ](YOUR_PLAY_STORE_LINK_HERE)*(Note: Replace the link above once your app is live!)*
 
 ---
 
