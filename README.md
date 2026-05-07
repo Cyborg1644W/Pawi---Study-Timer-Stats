@@ -1,4 +1,4 @@
-# Pawi — Study Timer & Stats 🐢
+# Pawi - Study Timer & Stats 🐢
 
 **Pawi** is a minimalist, ad-free productivity tool designed to help students and developers reach a flow state. Built with a "Zero-Friction" philosophy: **No ads, no accounts, and no tracking.**
 
