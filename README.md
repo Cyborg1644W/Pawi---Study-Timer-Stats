@@ -44,4 +44,4 @@ Pawi's source is currently closed-source, but here's a look at how it's built:
 **Reindel Andrada**
 Computer Science student at Technological University of the Philippines – Manila
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://linkedin.com/in/reindelandrada) · [Portfolio](https://reindelandrada.vercel.app/)
