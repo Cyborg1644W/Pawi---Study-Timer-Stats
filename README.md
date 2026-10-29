@@ -2,7 +2,7 @@
 
 **Pawi** is a minimalist, ad-free study timer built to help students and developers reach a state of deep focus. It follows a strict **zero-friction philosophy**: no ads, no accounts, no tracking — just you and your work.
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](CURRENTLY ON BETA TEST)
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](CURRENTLY_ON_BETA_TEST)
 
 ---
 
